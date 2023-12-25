@@ -1176,6 +1176,15 @@ footer .contact-us span {
 
 
 
+
+    header .inbox button {
+        position: absolute;
+        width: 50%;
+        left: -8%;
+        /* right: 120%; */
+    }
+
+
     .nav .nav-mobile {
         display: flex;
         height: 100px;
@@ -1204,7 +1213,7 @@ footer .contact-us span {
 
     .nav .nav-mobile ul button {
         position: absolute;
-        left: 850%;
+        left: 0;
         top: 10%;
         font-size: 3rem;
         background: transparent;
